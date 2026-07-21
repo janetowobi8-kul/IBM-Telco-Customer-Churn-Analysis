@@ -4,8 +4,8 @@ An end-to-end customer churn analysis using Power BI, Power Query, and DAX to di
 ## 📖 Project Overview
 Customer churn is a major challenge for subscription-based businesses because losing customers directly impacts revenue and growth. By understanding why customers leave, companies can enhance satisfaction and create better retention strategies.This project examines customer churn using the IBM Telco Customer Churn dataset. The data was cleaned and transformed with Power Query, analyzed with DAX measures, and visualized in Power BI through interactive dashboards. The aim was to identify key factors driving churn and deliver actionable insights to help improve business decisions.
 
-## 🎯 Business ProblemCustomer 
-churn is a critical issue for telecommunication companies, as retaining existing customers is typically more cost-effective than acquiring new ones.The company needs to identify which customers are most at risk of churning, understand the key factors driving customer attrition, and develop data-driven strategies to boost retention and minimize revenue loss.
+## 🎯 Business Problem
+Customer churn is a critical issue for telecommunication companies, as retaining existing customers is typically more cost-effective than acquiring new ones.The company needs to identify which customers are most at risk of churning, understand the key factors driving customer attrition, and develop data-driven strategies to boost retention and minimize revenue loss.
 
 ## 🎯 Business objetives
 
@@ -146,29 +146,51 @@ The analysis identified several key factors associated with customer churn:
 
 ## 🎯 Business Recommendations
 
+
+Based on the findings from the customer churn analysis, the following recommendations are proposed:
+
 ### 1. Encourage Long-Term Contracts
 
-Offer discounts or loyalty rewards to customers on month-to-month contracts to reduce churn.
+Month-to-month customers have the highest churn rate at approximately 42%. The company should encourage customers to move to one-year or two-year contracts by offering loyalty rewards, discounts, or additional benefits.
+
+**Expected Impact:** Reduce churn among high-risk month-to-month customers and improve long-term customer retention.
 
 ### 2. Improve New Customer Onboarding
 
-Implement structured onboarding, welcome campaigns, and proactive customer engagement during the first 12 months.
+New customers have the highest churn rate at approximately 47%. The company should introduce a structured onboarding program that includes welcome communication, regular check-ins, and customer education during the first year.
 
-### 3. Promote Tech Support
+**Expected Impact:** Improve the early customer experience and reduce customer churn during the first stages of the customer relationship.
 
-Bundle Tech Support with internet plans or offer free trial periods to increase adoption.
+### 3. Promote Tech Support Services
 
-### 4. Encourage Automatic Payments
+Customers without Tech Support have a higher churn rate than customers with Tech Support. The company should consider bundling Tech Support with internet plans or offering free trials.
 
-Provide incentives for customers to switch from Electronic Check to automatic payment methods.
+**Expected Impact:** Increase customer satisfaction and reduce churn among customers who may need additional technical assistance.
 
-### 5. Review Fiber Optic Service
+### 4. Encourage Automatic Payment Methods
 
-Investigate pricing, service quality, and customer complaints for Fiber Optic customers.
+Customers using Electronic Check have the highest churn rate among the payment methods analyzed. The company should encourage customers to switch to automatic payment methods by offering incentives and making the enrollment process easier.
 
-### 6. Target Senior Citizens
+**Expected Impact:** Improve payment consistency and potentially increase customer retention.
 
-Develop tailored retention campaigns, simplified plans, and dedicated support for senior customers.
+### 5. Review Fiber Optic Customer Experience
+
+Fiber optic customers have a significantly higher churn rate than DSL customers. The company should investigate possible causes, including service quality, pricing, network reliability, and customer complaints.
+
+**Expected Impact:** Identify and address issues affecting one of the highest-risk customer groups.
+
+### 6. Develop Targeted Retention Strategies for Senior Citizens
+
+Senior citizens have a higher churn rate than non-senior customers. The company should consider providing simplified service plans, dedicated customer support, and personalized retention offers.
+
+**Expected Impact:** Improve customer satisfaction and retention among this higher-risk demographic.
+
+### 7. Focus on High-Risk Customer Segments
+
+The company should combine the identified churn drivers to identify customers who may be at higher risk of leaving. Customers with multiple risk factors could receive proactive retention campaigns before they decide to churn.
+
+**Expected Impact:** Allow the company to focus retention resources on customers who are most likely to leave.
+
 
 ## 🧠 Skills Demonstrated
 
