@@ -123,11 +123,11 @@ Interactive slicers were added to allow users to filter the dashboard dynamicall
 
 ### Executive Dashboard
 
-![Executive Dashboard](executive_dashboard.png)
+
 
 ### Customer Analysis
 
-![Customer Analysis](customer_analysis.png)
+!(customer_analysis.png)
 
 💡 Key Insights
 * Month-to-month customers had the highest churn rate (42%).
