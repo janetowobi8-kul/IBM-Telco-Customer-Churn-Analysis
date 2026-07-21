@@ -119,15 +119,17 @@ This page focuses on customer segmentation and churn behavior across:
 
 Interactive slicers were added to allow users to filter the dashboard dynamically.
 
-## 🖼️ Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Executive Dashboard
 
+<img width="760" height="472" alt="Executive_dashboard" src="https://github.com/user-attachments/assets/c98f9afc-353a-49ec-bb25-ab4c6c7d2411" />
 
 
 ### Customer Analysis
 
-!(customer_analysis.png)
+<img width="763" height="494" alt="Customer_analysis" src="https://github.com/user-attachments/assets/554a05ba-fc72-49b5-a688-d4766163415a" />
+
 
 💡 Key Insights
 * Month-to-month customers had the highest churn rate (42%).
