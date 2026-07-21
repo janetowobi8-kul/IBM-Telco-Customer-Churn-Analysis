@@ -53,8 +53,6 @@ This analysis was conducted to answer the following questions:
 
 The dataset contains customer demographic information, account details, subscribed services, payment methods, tenure, monthly charges, total charges, and churn status.
 
- ## 🛠️ Tools Used
-
 ## 🛠️ Skills Demonstrated
 
 ### Data Analysis
