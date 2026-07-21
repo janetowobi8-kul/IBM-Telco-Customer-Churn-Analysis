@@ -132,14 +132,17 @@ Interactive slicers were added to allow users to filter the dashboard dynamicall
 
 
 💡 Key Insights
-* Month-to-month customers had the highest churn rate (42%).
-* New customers were the most likely to churn (47%).
-* Customers using Fiber Optic internet have the highest churn rate (41%), significantly higher than DSL customers (18%) and customers without internet service (7%).
-*Customers without Tech Support had significantly higher churn rates.
-* Customers using electronic checks had the highest payment-related churn rate (45%).
-* Senior citizens had a higher churn rate (41.6%) than non-senior customers.
-* Customers without partners or dependents were more likely to churn.
-* Gender showed little to no impact on customer churn.
+The analysis identified several key factors associated with customer churn:
+
+- **Month-to-month customers** had the highest churn rate at approximately **42%**, making them the highest-risk contract group.
+- **New customers** had the highest churn rate at approximately **47%**, indicating that the early customer experience is critical for retention.
+- **Fiber optic customers** had a churn rate of approximately **42%**, compared with approximately **19% for DSL customers**.
+- Customers **without Tech Support** had a significantly higher churn rate than customers with Tech Support.
+- Customers using **Electronic Check** had the highest churn rate among the payment methods analyzed, at approximately **45%**.
+- **Senior citizens** had a churn rate of approximately **42%**, compared with approximately **24% among non-senior customers**.
+- Customers **without a partner** had a higher churn rate than customers with a partner.
+- Customers **without dependents** had a higher churn rate than customers with dependents.
+- **Gender showed little difference in churn**, with male and female customers having similar churn rates.
 
 ## 🎯 Business Recommendations
 
