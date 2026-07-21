@@ -55,10 +55,29 @@ The dataset contains customer demographic information, account details, subscrib
 
  ## 🛠️ Tools Used
 
-* **Power BI** – Dashboard development and data visualization
-* **Power Query** – Data cleaning and transformation
-* **DAX (Data Analysis Expressions)** – KPI calculations and custom measures
-* **Microsoft Excel** – Initial data inspection and validation
+## 🛠️ Skills Demonstrated
+
+### Data Analysis
+- Data Cleaning and Transformation
+- Exploratory Data Analysis
+- Customer Churn Analysis
+- Customer Segmentation
+- Business Analysis
+
+### Power BI
+- Data Modeling
+- DAX Calculations
+- KPI Development
+- Interactive Dashboard Design
+- Data Visualization
+- Slicers and Filters
+
+### Business Intelligence
+- Identifying Churn Drivers
+- Extracting Business Insights
+- Data Storytelling
+- Developing Business Recommendations
+- Supporting Data-Driven Decision Making
 
 ## 🧹 Data Cleaning & Transformation
 
